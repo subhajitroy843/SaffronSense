@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-opencv-python
-scikit-image
-Pillow
-matplotlib
-shap
-joblib
